@@ -3,6 +3,7 @@
 
 CMakeFiles/TestMain.dir/mainTests.cpp.obj
  C:/Users/Noah/BugFactory/ADD_Lib/mainTests.cpp
+ C:/Users/Noah/BugFactory/ADD_Lib/Source/Controls/Movement.h
  C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest-assertion-result.h
  C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest-death-test.h
  C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest-matchers.h
@@ -229,4 +230,5 @@ CMakeFiles/TestMain.dir/mainTests.cpp.obj
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h
+ C:/Users/Noah/BugFactory/ADD_Lib/Source/Controls/Movement_Tests.h
 

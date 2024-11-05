@@ -218,4 +218,6 @@ CMakeFiles/TestMain.dir/mainTests.cpp.obj: \
  C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest-test-part.h \
  C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest-typed-test.h \
  C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest_pred_impl.h \
- C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h
+ C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h \
+ C:\Users\Noah\BugFactory\ADD_Lib\Source/Controls/Movement_Tests.h \
+ C:/Users/Noah/BugFactory/ADD_Lib/Source/Controls/Movement.h

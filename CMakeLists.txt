@@ -9,8 +9,8 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 
-
-
+include_directories(TestMain 
+  ${CMAKE_CURRENT_SOURCE_DIR}/Source/Controls)
 
 include(FetchContent)
 FetchContent_Declare(
@@ -23,11 +23,15 @@ FetchContent_MakeAvailable(googletest)
 
 
 
-
 # enabling testing
 enable_testing()
 
+
+
 add_executable(TestMain mainTests.cpp)
+
+target_sources(TestMain PUBLIC ${PROJECT_SOURCE_DIR}/Source)
+ 
 target_link_libraries(
   TestMain
   GTest::gtest_main
