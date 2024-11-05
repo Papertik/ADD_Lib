@@ -1,0 +1,30 @@
+Start testing: Oct 06 19:30 Mountain Daylight Time
+----------------------------------------------------------
+1/1 Testing: TestMain.BasicAssertions
+1/1 Test: TestMain.BasicAssertions
+Command: "C:/Users/Noah/BugFactory/IpaceSnvaders/build/Debug/TestMain.exe" "--gtest_filter=TestMain.BasicAssertions" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Noah/BugFactory/IpaceSnvaders/build
+"TestMain.BasicAssertions" start time: Oct 06 19:30 Mountain Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\Noah\BugFactory\IpaceSnvaders\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = TestMain.BasicAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestMain
+[ RUN      ] TestMain.BasicAssertions
+[       OK ] TestMain.BasicAssertions (0 ms)
+[----------] 1 test from TestMain (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TestMain.BasicAssertions" end time: Oct 06 19:30 Mountain Daylight Time
+"TestMain.BasicAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 06 19:30 Mountain Daylight Time

@@ -1,0 +1,15 @@
+{
+	"folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../Libs/CSFML-2.6.1-windows-64-bit/CSFML"
+    },
+    {
+      "name": "SpaceInvaders",
+      "path": "../../SpaceInvaders"
+    }
+  ],
+  "settings": {}
+}
