@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/98f9d8a9bd9decadbd944936e67919f6/googletest-populate.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fe66fe4b6e38efc779e8cc0847c828da/googletest-populate-complete.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-build.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-configure.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-download.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-install.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-mkdir.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-patch.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-test.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule"
 		},
 		{
-			"file" : "C:/Users/Noah/BugFactory/IpaceSnvaders/build/_deps/googletest-subbuild/CMakeFiles/fa09826b99fe60e809feb36294965767/googletest-populate-update.rule"
+			"file" : "C:/Users/Noah/BugFactory/ADD_Lib/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule"
 		}
 	],
 	"target" : 

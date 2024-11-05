@@ -1,2 +1,2 @@
-TestMain.BasicAssertions 2 0.0155871
+TestMain.BasicAssertions 1 0.0179919
 ---

@@ -1,5 +1,5 @@
-libdir=C:/Program Files (x86)/IpaceSnvaders/lib
-includedir=C:/Program Files (x86)/IpaceSnvaders/include
+libdir=C:/Program Files (x86)/ADDlib/lib
+includedir=C:/Program Files (x86)/ADDlib/include
 
 Name: gtest
 Description: GoogleTest (without main() function)

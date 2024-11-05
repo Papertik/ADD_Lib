@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241105-0317-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.0"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="CheeseStick"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="1"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="34735"
+	TotalPhysicalMemory="32687"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3792"
+	>
+	<Testing>
+		<StartDateTime>Nov 04 20:18 Mountain Standard Time</StartDateTime>
+		<StartTestTime>1730776697</StartTestTime>
+		<TestList>
+			<Test>./TestMain.BasicAssertions</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestMain.BasicAssertions</Name>
+			<Path>.</Path>
+			<FullName>./TestMain.BasicAssertions</FullName>
+			<FullCommandLine>C:\Users\Noah\BugFactory\ADD_Lib\build\TestMain.exe "--gtest_filter=TestMain.BasicAssertions" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0179919</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Noah\BugFactory\ADD_Lib\build\TestMain.exe "--gtest_filter=TestMain.BasicAssertions" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkE1PwzAMhu/5FT6uh1ZwnbRDR2EHoKCOnZqqylqvRErjKXFB/Hv6MaYNaQOfbPmx39fOOmu1baBV2s4C2Dlq4W4uNx6dlympd7nsmgdVMbkvGSdJ+aS3cttpU8uyxr2XDVFjkNFz6F11UsqxHLJyWB5VlUiJcQ6rEYG3vgM7bRgdLMbqecCWyusq9r0+a7Je5ItjFJAd3N4Cj9OD20PuO80YiTw8RgErQ1tlpj7aD+3Itmh7Fjns9r/g050/bkQO2SaFMYorHicCXh6vUDC7gdYHf4tOIDCxMoH430WMyoU1fdrzf136Ezhlo3Od/obXeL2+T4ZLJzYS3x4br/8=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 04 20:18 Mountain Standard Time</EndDateTime>
+		<EndTestTime>1730776697</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

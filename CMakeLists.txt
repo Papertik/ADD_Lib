@@ -10,10 +10,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 
 
-find_library(SFML
-            NAMES SFML
-             " C:/Users/Noah/BugFactory/Libs/CSFML-2.6.1-windows-64-bit/CSFML/include/SFML")
-             
 
 
 include(FetchContent)
